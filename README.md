@@ -58,6 +58,14 @@ Se pide crear el flujo completo para visualizar un listado de adopciones en el M
 
 ## Ejercicio 2: Listado de Ofertas con Flow
 
+Se pide crear el flujo para detectar los cambios que se producen en un datastore tras obtener los
+datos de red.
+
+Para ello, se deberán descomentar las funciones del AdoptionsDataRepository y añadir todos los
+modificadores necesarios.
+
 1. Añadir las librerías que se crean oportunas.
-2. Los datos de 
+2. Implementar la función loadAdoption del ViewModel con el código necesario para escuchar con Flow.
+3. Implementar el código necesario en la función getAdoption del AdoptionDataRepository.
+4. Si se hace correcto, se debería ver el primer animal del listado en el LogCat.
 
