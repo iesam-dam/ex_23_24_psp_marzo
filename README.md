@@ -16,7 +16,7 @@ Los objetivos están agrupados en:
 
 ## Requisitos para la realización de la prueba
 
-- La prueba tiene una duración de 3 horas. Una vez terminada la prueba, se quitarán los privilegios
+- La prueba tiene una duración de 2 horas. Una vez terminada la prueba, se quitarán los privilegios
   al usuario para evitar modificaciones.
 - La prueba se hará sobre este repositorio (el profesor concederá permiso para hacer PR).
 - La prueba se entrega a través de una Pull Request por cada uno de los ejercicios solicitados. Si
