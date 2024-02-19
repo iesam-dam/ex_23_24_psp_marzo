@@ -1,4 +1,4 @@
-## Examen Programación de Servicios y Procesos 22-23 (Marzo)
+## Examen Programación de Servicios y Procesos 23-24 (Marzo)
 
 ## Aviso Importante
 
@@ -18,8 +18,7 @@ Los objetivos están agrupados en:
 
 - La prueba tiene una duración de 3 horas. Una vez terminada la prueba, se quitarán los privilegios
   al usuario para evitar modificaciones.
-- La prueba se hará sobre el
-  repositorio: [Prueba PSP Curso 23/24 Marzo](https://github.com/IESAM-DAM/ex_23_24_psp_marzo.git)
+- La prueba se hará sobre este repositorio (el profesor concederá permiso para hacer PR).
 - La prueba se entrega a través de una Pull Request por cada uno de los ejercicios solicitados. Si
   no se entrega una Pull Request se considerará incompleta.
 - En la Pull Request pondrá como revisor al profesor.
