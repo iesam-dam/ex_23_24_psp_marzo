@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Rami",
+	"short_description": "Un diamante sin pulir",
+    "description": "Rami viene de convivir con un grupo de 15 perros que vivian hacinados en una casa en malas condiciones. la rescatamos junto con sus hermanos o primos, y casi todos ellos han encongtrado una casa despue´s de que hayamos necesitado mucha paciencia y tesón para quitarles el miedo, ir de la correa y del arnés, ganar poco a poco confianza. Es pequeña, un poco desconfiada todavía, pero estamos seguras de que se va a adaptar muy bien en un ambiente tranquilo que le ayude a su estabilidad emocional. Si no puedes adoptar a RAMI , puedes apadrinarla: Nos ayudas y la ayudas:https://www.protectorahuellas.org/ayudanos/apadrina",
+    "breed": "Mestiza",
+    "sex": "Hembra",
+    "date_born": "01-01-2021",
+    "size": "Medio",
+    "url_image": "https://www.protectorahuellas.org/media/k2/items/cache/f4bbebcbdcc4b70522073388c7b5f8e3_M.jpg",
+	"url_source": "https://www.protectorahuellas.org/adopcion-de-perros/perros-en-adopcion/item/6913-6913",  
+    "type": {
+      "id": 1,
+      "name": "Perro"
+    },
+	"gallery": [
+		"https://www.protectorahuellas.org/images/adopciones/perros/Rami/Rami_02.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Rami/Rami_03.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Rami/Rami_04.png"
+	]
+  },
+  {
+    "id": 2,
+    "name": "Maylo",
+	"short_description": "Salvados del abandono",
+    "description": "A Maylo y sus siete hermanos, cinco chicos y tres chicas,  los rescatamos junto con su madre cuando eran recien nacidos. Estaban en un chamizo abandonado en un pueblo de unos pocos vecinos, que llevaban viendo a la madre desde dias atras, y que deambulaba por las afueras del pueblo. los hermanos han crecido con su madre, que ya fue adoptada. Hoy los siete hermanos están con nosotros, porque uno de ellos ya fue adoptado. Buscamos una casa para cada uno de ellos. Quizá no puedas adoptar a Akai, pero puedes apadrinarlo, nos ayudas y le ayudas https://www.protectorahuellas.org/ayudanos/apadrina",
+    "breed": "Mestizo",
+    "sex": "Macho",
+    "date_born": "01/05/2022",
+    "size": "mediano",
+    "url_image": "https://www.protectorahuellas.org/media/k2/items/cache/b4d5a674fef05c43ec29cbda5cb2ab5d_M.jpg",
+	"url_source": "https://www.protectorahuellas.org/adopcion-de-perros/perros-en-adopcion/item/6912-6912",  
+    "type": {
+      "id": 2,
+      "name": "Gato"
+    },
+	"gallery": [
+		"https://www.protectorahuellas.org/images/adopciones/perros/Maylo/Maylo_02.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Maylo/Maylo_03.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Maylo/maylo_05.png"
+	]
+  },
+  {
+    "id": 3,
+    "name": "Akai",
+	"short_description": "Salvados del abandono",
+    "description": "A Akai y sus siete hermanos los rescatamos junto con su madre cuando eran recien nacidos. Estaban en un chamizo abandonado en un pueblo de unos pocos vecinos, que llevaban viendo a la madre desde dias atras, y que deambulaba por las afueras del pueblo. los hermanos han crecido con su madre, que ya fue adoptada. Hoy los siete hermanos están con nosotros, y uno de ellos ya fue adoptado. Buscamos una casa para cada uno de ellos. Quizá no puedas adoptar a Akai, pero puedes apadrinarlo, nos ayudas y le ayudas https://www.protectorahuellas.org/ayudanos/apadrina",
+    "breed": "Mestizo",
+    "sex": "Macho",
+    "date_born": "01/05/2022",
+    "size": "mediano",
+    "url_image": "https://www.protectorahuellas.org/media/k2/items/cache/33202be39b7e1e522952d330739a4f4d_XL.jpg",
+	"url_source": "https://www.protectorahuellas.org/adopcion-de-perros/perros-en-adopcion/item/6911-6911",  
+    "type": {
+      "id": 1,
+      "name": "Perro"
+    },
+	"gallery": [
+		"https://www.protectorahuellas.org/images/adopciones/perros/Akai/Akai_02.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Akai/Akai_03.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Akai/Akai_04.png"
+	]
+  },
+  {
+    "id": 4,
+    "name": "Estela",
+	"short_description": "Un gran drama",
+    "description": "La encontramos sola, triste, por la orilla de una carretera no lejana a un pueblo. Siempre pensamso en estos casos que un animal tan bueno de carácter y tan apacible no puede haber sido echado a la calle, Pero aquí está. nadie ha preguntado por ella, nadie la busca. Es joven, tranquila, amable... Quizá puedas adoptar a Esteñla, si no , puedes apadrinarla, nos ayudas y la ayudas. https://www.protectorahuellas.org/ayudanos/apadrina",
+    "breed": "Dogo Mestizo",
+    "sex": "Hembra",
+    "date_born": "11/01/2022",
+    "size": "Mediano",
+    "url_image": "https://www.protectorahuellas.org/media/k2/items/cache/1ad0cda0b78013d5416841bcb457fbc2_XL.jpg",
+	"url_source": "https://www.protectorahuellas.org/adopcion-de-perros/perros-en-adopcion/item/6908-6908",  
+    "type": {
+      "id": 1,
+      "name": "Perro"
+    },
+	"gallery": [
+		"https://www.protectorahuellas.org/images/adopciones/perros/Estela/Estela_02.jpg",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Estela/Estela_03.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Estela/Estela_04.png"
+	]
+  },
+  {
+    "id": 5,
+    "name": "Vila",
+	"short_description": "Somos responsables de su bienestar",
+    "description": "Vila estaba atada una mañana del mes de noviembre a una verja de un parque. Pasaba mucha gente por alli y todo el mundo pensó que su dueño o dueña estaría dentro en algun establecimiento cercano, pero no. Pasaron horas y horas y nadie la recogió , hasta que una llamada a nuestro teléfono nos alertó de que esta perra llevaba horas y horas alli atada, y además tan corta con la correa , que no podía ni sentarse. Y fuimos a buscarla. Es un poco nerviosa y activa todavía, es joven, necesita entrenamiento, pero es muy cariñosa. ideal para ir de marcha por el monte, por ejmplo. Si no puedes adoptar a VILA, puedes apadrinarla, nos ayudas y la ayudas. https://www.protectorahuellas.org/ayudanos/apadrina",
+    "breed": "Cruce Pastor Belga",
+    "sex": "Hembra",
+    "date_born": "22/02/2022",
+    "size": "Grande",
+    "url_image": "https://www.protectorahuellas.org/media/k2/items/cache/eafb661feb55b7e231a0edea0de3ee57_XL.jpg",
+	"url_source": "https://www.protectorahuellas.org/adopcion-de-perros/perros-en-adopcion/item/6902-6902",  
+    "type": {
+      "id": 1,
+      "name": "Perro"
+    },
+	"gallery": [
+		"https://www.protectorahuellas.org/images/adopciones/perros/Vila/Vila04.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Vila/Vila_02.png",
+		"https://www.protectorahuellas.org/images/adopciones/perros/Vila/Vila_03.png"
+	]
+  }
+]

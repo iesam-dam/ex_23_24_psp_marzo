@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ex_22_23_PSP_Marzo</string>
+    <string name="label_action_close">Cerrar Activity</string>
 </resources>
