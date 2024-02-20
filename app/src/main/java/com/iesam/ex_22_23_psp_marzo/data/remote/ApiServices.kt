@@ -1,6 +1,5 @@
 package com.iesam.ex_22_23_psp_marzo.data.remote
 
-import retrofit2.Call
 import retrofit2.http.GET
 
 interface ApiServices {

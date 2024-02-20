@@ -15,7 +15,7 @@ class AdoptionRemoteDataSource(
 
         val domainAnimals = emptyList<Animal>().toMutableList()
 
-        for (i in animalsType){
+        for (i in animalsType) {
             domainAnimals += animals[i.id].toDomain(animalsType[i.id])
         }
         return domainAnimals

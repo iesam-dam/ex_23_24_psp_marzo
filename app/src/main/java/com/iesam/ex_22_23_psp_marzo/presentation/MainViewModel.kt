@@ -10,7 +10,7 @@ import kotlinx.coroutines.Dispatchers
 class MainViewModel(private val getAdoptions: GetAdoptionsUseCase) : ViewModel() {
 
     private var _uiState = MutableLiveData<UiState>()
-    val uiState : LiveData<UiState> = _uiState
+    val uiState: LiveData<UiState> = _uiState
 
     fun loadAdoptions() {
         _uiState.postValue(UiState(animals = emptyList()))
@@ -18,11 +18,12 @@ class MainViewModel(private val getAdoptions: GetAdoptionsUseCase) : ViewModel()
             responseSucces(getAdoptions.invoke())
         }
     }
-private fun responseSucces(animals: List<Animal>){
-    _uiState.postValue(UiState(animals=animals))
-}
 
-data class UiState(
-    val animals: List<Animal> = emptyList()
-)
+    private fun responseSucces(animals: List<Animal>) {
+        _uiState.postValue(UiState(animals = animals))
+    }
+
+    data class UiState(
+        val animals: List<Animal> = emptyList()
+    )
 }

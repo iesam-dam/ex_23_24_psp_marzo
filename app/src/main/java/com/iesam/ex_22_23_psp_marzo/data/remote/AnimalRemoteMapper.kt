@@ -4,13 +4,14 @@ import com.iesam.ex_22_23_psp_marzo.domain.Animal
 import com.iesam.ex_22_23_psp_marzo.domain.AnimalType
 
 
-fun AnimalTypeRemoteModel.toDomain():AnimalType{
+fun AnimalTypeRemoteModel.toDomain(): AnimalType {
     return AnimalType(
         this.id,
         this.name
     )
 }
-fun AnimalRemoteModel.toDomain(type: AnimalType):Animal{
+
+fun AnimalRemoteModel.toDomain(type: AnimalType): Animal {
     return Animal(
         this.id,
         this.name,

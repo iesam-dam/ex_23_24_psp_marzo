@@ -4,7 +4,7 @@ import retrofit2.Retrofit
 
 class ApiBuilder {
 
-     fun build(): ApiServices {
+    fun build(): ApiServices {
         var retrofit = Retrofit.Builder()
             .baseUrl("https://huellas.sitehub.es/api")
             .build()

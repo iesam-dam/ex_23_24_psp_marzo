@@ -2,7 +2,7 @@ package com.iesam.ex_22_23_psp_marzo.data.remote
 
 import com.google.gson.annotations.SerializedName
 
-data class AnimalRemoteModel (
+data class AnimalRemoteModel(
     @SerializedName("id") val id: Int,
     @SerializedName("name") val name: String,
     @SerializedName("short_description") val shorDescription: String,
