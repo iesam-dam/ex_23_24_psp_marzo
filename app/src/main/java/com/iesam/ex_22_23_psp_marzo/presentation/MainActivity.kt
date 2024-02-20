@@ -5,12 +5,15 @@ import androidx.appcompat.app.AppCompatActivity
 import com.iesam.ex_22_23_psp_marzo.R
 import com.iesam.ex_22_23_psp_marzo.data.AdoptionDataRepository
 import com.iesam.ex_22_23_psp_marzo.data.remote.AdoptionRemoteDataSource
+import com.iesam.ex_22_23_psp_marzo.data.remote.ApiBuilder
 import com.iesam.ex_22_23_psp_marzo.domain.GetAdoptionsUseCase
 
 class MainActivity : AppCompatActivity() {
 
     private val repository = AdoptionDataRepository(
-        AdoptionRemoteDataSource()
+        AdoptionRemoteDataSource(
+            ApiBuilder()
+        )
     )
 
     private val viewModel = MainViewModel(
