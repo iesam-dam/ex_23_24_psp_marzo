@@ -4,6 +4,8 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.iesam.ex_22_23_psp_marzo.R
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.runBlocking
 
 class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,7 +21,13 @@ class MainActivity2 : AppCompatActivity() {
         }
     }
 
-    private fun initExercise2() {
+    private fun initExercise2() = runBlocking{
+        launch { println(helloWorld()) }
+    }
 
+    private suspend fun helloWorld():String{
+        while (true){
+            return "hello world"
+        }
     }
 }
